@@ -5,7 +5,7 @@ export const Footer = () => {
         <div className="xl:w-[30%]">
           <img
             className="w-[92px] h-[33px] mb-[29px]"
-            src="img/Logo.png"
+            src="Logo.png"
             alt="Logo"
           />
           <p className="text-white font-jost text-[14px] leading-[18px] font-normal mb-[59px]">
@@ -69,8 +69,8 @@ export const Footer = () => {
         </div>
 
         <div className="w-[107px] h-[35px] flex justify-between mb-[59px] xl:mb-0">
-          <img src="img/fb.png" alt="Facebook" />
-          <img src="img/inst.png" alt="Instagram" />
+          <img src="fb.png" alt="Facebook" />
+          <img src="inst.png" alt="Instagram" />
         </div>
 
         <div className="h-[111px] flex flex-col justify-between mb-[59px] xl:mb-0">

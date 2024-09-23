@@ -10,7 +10,7 @@ export const Contacts = () => {
         </p>
         <img
           className="w-[29px] h-[29px] object-cover xl:w-[91px] xl:h-[91px]"
-          src="img/arrow-down.png"
+          src="arrow-down.png"
           alt="arrow down"
         />
       </div>
@@ -20,7 +20,7 @@ export const Contacts = () => {
         </p>
         <img
           className="w-[29px] h-[29px] object-cover xl:w-[91px] xl:h-[91px]"
-          src="img/arrow-down.png"
+          src="arrow-down.png"
           alt="arrow down"
         />
       </div>
@@ -30,7 +30,7 @@ export const Contacts = () => {
         </p>
         <img
           className="w-[29px] h-[29px] object-cover xl:w-[91px] xl:h-[91px]"
-          src="img/arrow-down.png"
+          src="arrow-down.png"
           alt="arrow down"
         />
       </div>

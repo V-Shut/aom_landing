@@ -10,7 +10,7 @@ export const Services = () => {
         </p>
         <img
           className="w-[30px] h-[30px] xl:w-[60px] xl:h-[60px]"
-          src="img/arrow-orange.png"
+          src="arrow-orange.png"
           alt="arrow"
         />
       </div>
@@ -20,12 +20,12 @@ export const Services = () => {
           <div className="w-[138px] h-[200px] relative mb-[218px] xl:w-[400px] xl:h-[600px] xl:bg-cover z-0">
             <img
               className="absolute bottom-0 jeft-0 w-[128px] h-[157px] xl:w-[380px] xl:h-[487px] z-0"
-              src="img/spot-girl.png"
+              src="spot-girl.png"
               alt="spot image"
             />
             <img
               className="absolute top-0 right-0 w-[109px] h-[177px] object-fill xl:w-[326px] xl:h-[550px] z-0"
-              src="img/girl-heart.png"
+              src="girl-heart.png"
               alt="girl image"
             />
           </div>
@@ -117,12 +117,12 @@ leading-[17px] xl:text-[30px] xl:leading-[43px] xl:w-[400px]"
           <div className="w-[138px] h-[200px] relative xl:h-[450px] xl:w-[400px]">
             <img
               className="absolute bottom-0 right-0 transform scale-x-[-1] w-[128px] h-[157px] xl:w-[330px] xl:h-[420px]"
-              src="img/spot-girl.png"
+              src="spot-girl.png"
               alt="spot image"
             />
             <img
               className="absolute left-0 top-0 w-[109px] h-[177px] object-fill xl:w-[330px] xl:h-[420px]"
-              src="img/girl-glasses.png"
+              src="girl-glasses.png"
               alt="girl image"
             />
           </div>
