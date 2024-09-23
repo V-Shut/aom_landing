@@ -2,7 +2,7 @@ export const Philosophy = () => {
   return (
     <div
       id="philosophy"
-      className="w-[371px] h-[655px] flex flex-col justify-end items-center bg-[url('eye.png')] mb-[22px] xl:bg-[url('eye-desktop.png')] xl:w-full xl:bg-cover"
+      className="w-[371px] h-[655px] flex flex-col justify-end items-center bg-[url('/eye.png')] mb-[22px] xl:bg-[url('/eye-desktop.png')] xl:w-full xl:bg-cover"
     >
       <div className="w-[307px] h-[58px] flex flex-row justify-between items-center mb-[17px] xl:w-[1120px] xl:justify-start">
         <p className="text-white uppercase font-jost font-light uppercase text-[40px] text-white leading-[58px] xl:text-[100px] xl:leading-[144px]">

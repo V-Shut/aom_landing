@@ -4,7 +4,7 @@ A modern web application built using React, Vite, and TailwindCSS.
 
 ## Demo
 
-You can view the live demo [here](https://yourusername.github.io/ai_studio/).
+You can view the live demo [here](https://v-shut.github.io/aom_landing/).
 
 ## Features
 

@@ -10,7 +10,7 @@ export const Header = () => {
   };
 
   return (
-    <div className="flex justify-center items-center flex-col bg-[url('ai_studio/Header-image.png')] w-full bg-cover mb-[13px] xl:bg-[url('Header-desktop.png')] relative">
+    <div className="flex justify-center items-center flex-col bg-[url('/Header-image.png')] w-full bg-cover mb-[13px] xl:bg-[url('/Header-desktop.png')] relative">
       {checkbox && <Burger modalControl={modalControl} />}
       <div className="w-[90%] mt-[58px] flex justify-between items-center mx-auto mb-[196px]">
         <img
