@@ -2,11 +2,10 @@ export const Footer = () => {
   return (
     <div className="bg-black w-screen h-[1019px] flex justify-center items-center xl:h-[400px] xl:flex-col xl:justify-around">
       <div className="w-[274px] h-[905px] flex flex-col xl:flex-row xl:justify-between xl:w-[80%] xl:h-auto">
-
         <div className="xl:w-[30%]">
           <img
             className="w-[92px] h-[33px] mb-[29px]"
-            src="img/Logo.png"
+            src="assets/img/Logo.png"
             alt="Logo"
           />
           <p className="text-white font-jost text-[14px] leading-[18px] font-normal mb-[59px]">
@@ -70,8 +69,8 @@ export const Footer = () => {
         </div>
 
         <div className="w-[107px] h-[35px] flex justify-between mb-[59px] xl:mb-0">
-          <img src="img/fb.png" alt="Facebook" />
-          <img src="img/inst.png" alt="Instagram" />
+          <img src="assets/img/fb.png" alt="Facebook" />
+          <img src="assets/img/inst.png" alt="Instagram" />
         </div>
 
         <div className="h-[111px] flex flex-col justify-between mb-[59px] xl:mb-0">
@@ -96,8 +95,8 @@ export const Footer = () => {
         </div>
       </div>
       <p className="text-white h-[37px] leading-[21px] text-[14px] font-jost font-normal xl:w-auto">
-          © 2023 Company. All rights reserved.
-        </p>
+        © 2023 Company. All rights reserved.
+      </p>
     </div>
   );
 };
