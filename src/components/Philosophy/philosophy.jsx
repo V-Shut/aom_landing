@@ -2,7 +2,7 @@ export const Philosophy = () => {
   return (
     <div
       id="philosophy"
-      className="w-[371px] h-[655px] flex flex-col justify-end items-center bg-[url('assets/img/eye.png')] mb-[22px] xl:bg-[url('assets/img/eye-desktop.png')] xl:w-full xl:bg-cover"
+      className="w-[371px] h-[655px] flex flex-col justify-end items-center bg-[url('img/eye.png')] mb-[22px] xl:bg-[url('img/eye-desktop.png')] xl:w-full xl:bg-cover"
     >
       <div className="w-[307px] h-[58px] flex flex-row justify-between items-center mb-[17px] xl:w-[1120px] xl:justify-start">
         <p className="text-white uppercase font-jost font-light uppercase text-[40px] text-white leading-[58px] xl:text-[100px] xl:leading-[144px]">
@@ -10,7 +10,7 @@ export const Philosophy = () => {
         </p>
         <img
           className="xl:ml-[29px] xl:w-[121px] xl:h-[121px]"
-          src="assets/img/arrow.png"
+          src="img/arrow.png"
           alt=""
         />
       </div>

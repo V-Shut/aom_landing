@@ -6,12 +6,12 @@ export const Burger = ({ modalControl }) => {
       <div className="w-[90%] mt-[58px] flex justify-between items-center mx-auto mb-[100px]">
         <img
           className="w-[92px] h-[33px] xl:w-[183px] xl:h-[67px] z-3 mr-[11px]"
-          src="assets/img/Logo.png"
+          src="img/Logo.png"
           alt="header_icon"
         />
         <img
           className="xl:w-[78px] xl:h-[78px] cursor-pointer z-3 mr-[11px]"
-          src="assets/img/Burger.png"
+          src="img/Burger.png"
           alt="burger_menu"
           onClick={modalControl}
         />
