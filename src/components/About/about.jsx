@@ -18,7 +18,7 @@ export const About = () => {
         <p className="w-[307px] h-[161px] font-jost font-normal text-[16px] text-white leading-[23px] xl:w-[1120px] xl:text-[22px] xl:leading-[31px]">
           At Art of Marketing, disruption is in our DNA. Our team of visionary
           strategists, creative wizards, and tech-savvy experts collaborate to
-          push boundaries and redefine brand experiences. We believe in breaking
+          push boundaries and redefine brand experiences.  We believe in breaking
           the mold and setting new standards in the industry.
         </p>
       </div>
